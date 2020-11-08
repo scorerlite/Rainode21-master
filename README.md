@@ -34,7 +34,7 @@ Note: /var/www/html may be different on your server.
 Note that the IP-address and the port for the RPC  in the file `config.php` have to  match the entries in `RaiBlocks/config.json`
 * You might need to additionally install php7.0-curl, i.e. `sudo apt-get install php7.0-curl`
 
-Feel free to change your representative to my RaiBlocks node `xrb_1i9ugg14c5sph67z4st9xk8xatz59xntofqpbagaihctg6ngog1f45mwoa54` to support further decentralization within the Rai network.
+Feel free to change your representative to my RaiBlocks node `rai_1ko3jeb157jc1rkq7piq68f8zkyteut77hn9jjb5y79oxmj7uspo7sf8a6xu` to support further decentralization within the Rai network.
 
 
 
