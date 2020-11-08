@@ -1,0 +1,19 @@
+body { background-color: #fff; }
+h1 { color:grey; font-family: 'Lucida Sans', sans-serif; font-size: 38px; position:absolute; top:5px;left:200px; overflow: hidden; white-space:nowrap;}
+h2 { color: grey; font-family: 'Lucida Sans', sans-serif; font-size: 18px; margin: 0 0 28px; }
+h3 { color: grey; font-family: 'Lucida Sans', sans-serif; font-size: 15px; margin:10 30; }
+.info {padding: 5px 50px; float:left} 
+.logo {margin-right:50px;}
+.footer  {text-align:center;}
+.qrcode { text-align:center; width:300px; overflow: hidden; text-overflow: ellipsis;}
+a:link, a:visited {text-decoration:none;color:#256f00; font-weight:bold}
+a:hover {color: black} 
+p ,li {line-height:22px; max-width:600px }
+hr {color:grey; width:95%}
+.short {color:grey; width:200px;}
+.medium{ color: black; max-width:600px; font-size: 14px;line-height: 22px; 
+         -webkit-text-size-adjust: none; -moz-text-size-adjust: none; -ms-text-size-adjust: none}
+.small { color: #676767; font-size:12px; line-height: 18px; 
+         -webkit-text-size-adjust: none; -moz-text-size-adjust: none; -ms-text-size-adjust: none}
+.ticker {max-width:330px;position: absolute; right:60px; top:85px; border:1px dotted black; background-color: #e1e1e1; color: #0e1121; font-family: 'Lucida Sans', sans-serif; font-size: 11px; font-weight: 100; text-indent: 8px; 
+        -webkit-text-size-adjust: none; -moz-text-size-adjust: none; -ms-text-size-adjust: none;padding:5px;margin:0 10 10 0}
