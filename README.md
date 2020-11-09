@@ -19,15 +19,14 @@ Currently, the following information is displayed:
 
 ## Installation
 
-Instructions for setting up in a very simple way a node can be found [here](http://Rainode21.cloud/setupnode.htm)
-This How-to includes a [script](https://gist.github.com/stefonarch/61d21152a0b71341e4c4a1b5a0df7795)  will configure RPC settings and install some basic comands to control the node.
+Instructions for setting up in a very simple way a node can be found [here](https://github.com/raicoincommunity/Raicoin/wiki/Run-a-Node)
 
 You will need to install,configure and have running nginx (or apache) and phpfm to run this stuff.
 
-*  To install in server root you need to empty it first, then change in the server root Run `git clone https://github.com/https://github.com/stefonarch/Rainode21 .`
+*  To install in server root you need to empty it first, then change in the server root Run `git clone https://github.com/scorerlite/Rainode21-master .`
 Note the final dot!
 * You can install also in <your_IP>/stats or a name of your choice. Just run
-`git clone https://github.com/https://github.com/stefonarch/Rainode21 /var/www/html/stats`
+`git clone https://github.com/scorerlite/Rainode21-master /var/www/html/stats`
 Note: /var/www/html may be different on your server.
 * This frontend should be visible at http://[your-ip-address]/stats/
 * Modify settings in /modules/config.php at your needs. 

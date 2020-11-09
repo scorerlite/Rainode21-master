@@ -180,7 +180,7 @@ System Load Average: <?php print(getSystemLoadAvg()); ?><br/>
 <div class="footer">
 <p class="small"><a href="https://github.com/scorerlite/Rainode21-master/" target="_blank">Rainode21</a> is forked from <a href="https://github.com/stefonarch/Nanode21" target="_blank">phpNodeXrai</a></p>
 <p class="small">Server Cost: <?php echo $monthlyCosts; ?>/mo. Donations:  
-<a  href="https://www.nanode.co/account/<?php print($raiDonationAccount); ?>" target="_blank"><?php print($raiDonationAccount); ?></a>
+<a  href="https://raicoin.org/#explorer/<?php print($raiDonationAccount); ?>" target="_blank"><?php print($raiDonationAccount); ?></a>
 </p>
 </div>											   
 </body>
