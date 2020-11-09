@@ -3,7 +3,7 @@
 Simple and clean monitor frontend for a Rai network node based on curl and php.
 It connects to a running node via RPC and displays it's status on a simple webpage:
 
-![Rainode21img](https://github.com/stefonarch/phpNodeXRai/blob/master/preview1.png) 
+![Rainode21img](https://github.com/scorerlite/Rainode21-master/blob/main/preview.png) 
 
 Currently, the following information is displayed:
 * Information text block
